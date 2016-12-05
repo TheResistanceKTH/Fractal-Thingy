@@ -1,7 +1,6 @@
 #### Fractal thingy!
-Some tests with fractal generator in javascript.
-Click to generate new generations of the fractal.
-
-Warning: Creates 2<sup>n</sup> branches.. Will crash your browser if you spam click.
+Fractal generator in javascript.
+Press space to generate new generations of the fractal.
+Enter an angle into the input-box to see different fractals.
 
 https://theresistancekth.github.io/FractalThingy/
